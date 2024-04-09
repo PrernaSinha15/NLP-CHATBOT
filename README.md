@@ -22,4 +22,4 @@
   *import rew
   *import nltk
   *from nltk.chat.util import Chat, reflections
-file
+* file [open](https://github.com/PrernaSinha15/NLP-CHATBOT/blob/main/Combined1.ipynb)
